@@ -43,7 +43,6 @@ To get started with these tutorials:
 ## Prerequisites
 
 - Basic understanding of Python programming
-- Familiarity with data science and machine learning concepts (for advanced topics)
 
 ## Contributing
 
